@@ -18,8 +18,8 @@ It covers the complete process from **data cleaning** to **Power BI dashboarding
 ## 🧾 Dataset Summary
 - **Records:** 120,000+ orders  
 - **Columns:** 24 fields (Order ID, Date, Category, Amount, Qty, State, City, Fulfillment, Status, etc.)  
-- **Period Covered:** 1 year of Amazon India order data  
-- **Source:** Internal dataset (anonymized)
+- **Period Covered:** 4 months of Amazon India order data  
+- **Source:** https://www.kaggle.com/datasets/mdsazzatsardar/amazonsalesreport
 
 ---
 
