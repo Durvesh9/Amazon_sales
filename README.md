@@ -34,7 +34,7 @@ It covers the complete process from **data cleaning** to **Power BI dashboarding
 ---
 
 ## 📈 Dashboard Highlights
-**Dashboard File:** `dashboard.pbix` (open in Power BI Desktop)
+**Dashboard File:** `Amazon_sales.pbix` (open in Power BI Desktop)
 
 ### 🟦 Page 1: Sales Overview
 - Total Sales, Total Orders, Quantity Sold, Average Order Value  
